@@ -1,0 +1,29 @@
+
+.btn{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.click{
+    background-color: aqua;
+}
+
+.noclick{
+    background-color: bisque;
+}
+
+.maintitle{
+    font-family: "Papyrus", fantasy;
+    font-size: 46px;
+    color:rgb(81, 60, 7);
+
+}
+
+.recipe{
+    font-family: "Lucida Handwriting", cursive;
+    font-size: 26px;
+    color:rgb(124, 76, 14);
+    text-decoration: none;
+
+
+}
